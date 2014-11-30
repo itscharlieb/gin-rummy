@@ -16,6 +16,8 @@ import java.util.HashSet;
 @SuppressWarnings("serial")
 public class Hand implements Serializable
 {
+	//test for commits hit egit and github
+	
 	private ArrayList<Card> aUnmatchedCards;
 	private Set<ICardSet> aMatchedSets;
 	private Card aTemporaryCard;
